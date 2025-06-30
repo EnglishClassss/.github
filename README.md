@@ -1,2 +1,2 @@
-# .github
-Projeto desenvolvido como parte do curso de Administração de Banco de Dados. O English Class é uma aplicação web para gerenciamento de aulas online de inglês, com foco em avaliação individual, agendamento e controle de desempenho
+![Image](https://github.com/user-attachments/assets/f27e6fa1-7c84-44b8-a3eb-54358e531ca1)
+
