@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/f27e6fa1-7c84-44b8-a3eb-54358e531ca1" alt="Logo English Class" width="55%" />
+<img src="https://github.com/user-attachments/assets/ca8171bf-26b2-422e-8505-b73f6921e9be" alt="Logo English Class" width="55%" />
 
 # Bem-vindo(a) à **English Class** 
  Plataforma web para gerenciamento de aulas individuais de **inglês**, com foco em desempenho, avaliações e organização.
